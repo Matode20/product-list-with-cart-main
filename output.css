@@ -615,6 +615,10 @@ video {
   display: grid;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-full {
   height: 100%;
 }
@@ -786,4 +790,9 @@ video {
 .text-\[\#753c03\] {
   --tw-text-opacity: 1;
   color: rgb(117 60 3 / var(--tw-text-opacity));
+}
+
+.text-\[\#b85c06\] {
+  --tw-text-opacity: 1;
+  color: rgb(184 92 6 / var(--tw-text-opacity));
 }
